@@ -15,6 +15,8 @@ This new assignment consists of two technical products. You will submit the foll
 # Files Included 
 
 1_mars_news_Helotie.ipynb === Python Jupyter script for Deliverable 1
+
 2_mars_weather_Helotie.ipynb === Python Jupyter script for Deliverable 2
+
 mars_temp_table.csv === CSV output for Deliverable 2
 
